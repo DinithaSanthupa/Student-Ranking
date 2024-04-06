@@ -1,0 +1,11 @@
+1*Maths 23.Science 45.History 78.English 90.Geography 67|
+2*Maths 9.Science 5.History 8.English 9.Geography 7|
+3*Maths 23.Science 45.History 78.English 90.Geography 67|
+4*Maths 23.Science 45.History 78.English 90.Geography 67|
+5*Maths 23.Science 45.History 78.English 90.Geography 67|
+6*Maths 23.Science 45.History 78.English 90.Geography 67|
+7*Maths 23.Science 45.History 78.English 90.Geography 67|
+8*Maths 23.Science 45.History 78.English 90.Geography 67|
+9*Maths 23.Science 45.History 78.English 90.Geography 67|
+10*Maths 23.Science 45.History 78.English 90.Geography 67|
+11*Maths 23.Science 45.History 78.English 90.Geography 67|
